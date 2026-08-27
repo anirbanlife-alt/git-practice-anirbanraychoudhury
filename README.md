@@ -20,3 +20,6 @@ python src/main.py
 
 ```
 
+## Status
+Project complete — all tasks finished.
+
